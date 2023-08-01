@@ -2,6 +2,7 @@
 This will help to add or remove the external dependencies, downloaded from Carthage, from a project
 
 #Add external dependencies with Carthages
+
 I just used Carthage dependency manager for the first time. I followed this guide:
 https://www.kodeco.com/7649117-carthage-tutorial-getting-started
 
@@ -62,3 +63,5 @@ For Removal we need to follow some steps-
 4) If you added the Copy File Phase then remove that also.
 5) Remove the import Code from the files where you using the Framework.
 5) Clean and Build the target.
+
+#Thanks
