@@ -1,7 +1,7 @@
 # Add-Remove-CarthagePOC
 This will help to add or remove the external dependencies, downloaded from Carthage, from a project
 
-#Add external dependencies with Carthages
+# Add external dependencies with Carthages
 
 I just used Carthage dependency manager for the first time. I followed this guide:
 https://www.kodeco.com/7649117-carthage-tutorial-getting-started
@@ -54,7 +54,7 @@ from a Finder window into the drop target (where it says “Add Files here”).
 
 9. You can clean/re-build your project and run it.
 
-#Remove external dependencies
+# Remove external dependencies
 
 For Removal we need to follow some steps-
 1) Remove the Carthage Folder, Cartfile.resolved and Cartfile from Project Folder.
@@ -64,4 +64,4 @@ For Removal we need to follow some steps-
 5) Remove the import Code from the files where you using the Framework.
 5) Clean and Build the target.
 
-#Thanks
+# Thanks
